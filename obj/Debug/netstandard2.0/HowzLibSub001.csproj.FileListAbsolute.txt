@@ -1,0 +1,9 @@
+/Users/Howz/Projects/HowzProject001/HowzLibSub001/bin/Debug/netstandard2.0/HowzLibSub001.deps.json
+/Users/Howz/Projects/HowzProject001/HowzLibSub001/bin/Debug/netstandard2.0/HowzLibSub001.dll
+/Users/Howz/Projects/HowzProject001/HowzLibSub001/bin/Debug/netstandard2.0/HowzLibSub001.pdb
+/Users/Howz/Projects/HowzProject001/HowzLibSub001/obj/Debug/netstandard2.0/HowzLibSub001.csprojResolveAssemblyReference.cache
+/Users/Howz/Projects/HowzProject001/HowzLibSub001/obj/Debug/netstandard2.0/HowzLibSub001.csproj.CoreCompileInputs.cache
+/Users/Howz/Projects/HowzProject001/HowzLibSub001/obj/Debug/netstandard2.0/HowzLibSub001.AssemblyInfoInputs.cache
+/Users/Howz/Projects/HowzProject001/HowzLibSub001/obj/Debug/netstandard2.0/HowzLibSub001.AssemblyInfo.cs
+/Users/Howz/Projects/HowzProject001/HowzLibSub001/obj/Debug/netstandard2.0/HowzLibSub001.dll
+/Users/Howz/Projects/HowzProject001/HowzLibSub001/obj/Debug/netstandard2.0/HowzLibSub001.pdb
